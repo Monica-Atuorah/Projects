@@ -1,9 +1,9 @@
 # Projects
 A collection of my work
 
-Power Bi Projects
+Power Bi Project/ Data Visualization
 
-1. Riby Fintech Analysis
+1. Riby Fintech Analysis. An analysis done to facilitate Stategic Business Growth
 
 ML Project
 1. Group work on Food Analysis
